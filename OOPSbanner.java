@@ -5,8 +5,8 @@
  * @author Developer
  * @version 1.0*/
 
-public class 00PSBannerApp {
+public class OOPSbanner {
   public static void main(String[] args) {
-    System.out.println(x: "00PS");
-  }
+    System.out.println("OOPS");
+    }
 }
