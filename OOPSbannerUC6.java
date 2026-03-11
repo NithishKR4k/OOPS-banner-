@@ -10,8 +10,6 @@ public class OOPSbannerUC6 {
             " ***** "
         };
     }
-
-    // Method to generate the pattern for the letter 'P'
     public static String[] getPPattern() {
         return new String[] {
             " ***** ",
@@ -23,8 +21,6 @@ public class OOPSbannerUC6 {
             "*      "
         };
     }
-
-    // Method to generate the pattern for the letter 'S'
     public static String[] getSPattern() {
         return new String[] {
             " ***** ",
